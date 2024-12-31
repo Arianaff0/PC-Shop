@@ -1,4 +1,4 @@
-# Developed by: Ariana Feng
+# Developed by: Ariana F
 # Date: March 8, 2023
 # Desc: A PC shop program that allows users to choose between custom PCs or pre-built PCs or both! Then the user
 #       can check out and the price of what they ordered will be shown in a list.
